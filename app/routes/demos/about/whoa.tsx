@@ -4,9 +4,7 @@ export default function AboutIndex() {
   return (
     <div>
       <p>
-        Whoa, this is a nested route! We render the <code>/about</code> layout
-        route component, and its <code>Outlet</code> renders our route
-        component. 🤯
+        I am <code>Harikrushna</code> <code>Patel</code>  🤯
       </p>
       <p>
         <strong>
