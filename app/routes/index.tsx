@@ -15,8 +15,8 @@ export default function Index() {
         </a>
       </h1>
       <h1 className="text-center mt-12">
-        Visit My   <a target={"_blank"} className="bg-black hover:bg-white  focus:outline-none focus:ring focus:ring-black-300 text-white hover:text-black" href="https://library.haripatel.dev">
-        Library.
+        Visit My   <a target={"_blank"} className="bg-black hover:bg-white  focus:outline-none focus:ring focus:ring-black-300 text-white hover:text-black" href="https://articles.haripatel.dev">
+        Articles.
         </a>
       </h1>
     </>)
